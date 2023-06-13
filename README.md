@@ -1,3 +1,3 @@
 # JavaScript Starter
 
-For Basics of Web Programming course in Metropolia.
+For Basics of Web Development course in Metropolia.
