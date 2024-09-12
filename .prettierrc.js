@@ -1,7 +1,8 @@
-module.exports = {
+const config = {
   semi: true,
   singleQuote: true,
   bracketSpacing: false,
-  singleQuote: true,
   trailingComma: 'es5',
 };
+
+export default config;
